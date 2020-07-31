@@ -1,0 +1,16 @@
+@mixin full-page {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+html,
+body,
+div#root {
+  @include full-page();
+
+  margin: 0;
+  padding: 0;
+}

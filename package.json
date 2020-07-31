@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "A template repository for a React app with Parcel",
   "main": "index.js",
-  "repository": "https://github.com/emilyaviva/parcel-template-typescript",
+  "repository": "https://github.com/emilyaviva/parcel-typescript-template",
   "author": {
     "name": "Emily Aviva Kapor-Mater",
     "email": "emily@emilyaviva.com",
